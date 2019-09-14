@@ -3,7 +3,9 @@ Cascade Ablation game
 
 
 
-Project Explaination
+Project Explaination:
+
+In this game, you are requied to combine  three different graphs in order to match the question graph.
 
 
 Name:Cascade Ablation game
